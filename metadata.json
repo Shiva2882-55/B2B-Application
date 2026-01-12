@@ -1,0 +1,7 @@
+{
+  "name": "Copy of  B2B Application",
+  "description": "An end-to-end B2B supply chain platform connecting Retailers, Distributors, and Manufacturers with a centralized logistics hub for quality-assured bulk commerce.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
